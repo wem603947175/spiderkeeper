@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SpiderKeeper" uuid="2766e89f-1f15-4c16-8633-feaace1b6722">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="SpiderKeeper [2]" uuid="8e815d8d-243e-4d39-a56d-e9731379b69e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="SpiderKeeper [3]" uuid="2d2e819a-cf91-4191-bb8a-abaf5dfa27a7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>

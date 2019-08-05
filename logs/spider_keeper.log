@@ -1,0 +1,61 @@
+
+/usr/local/lib/python3.7/site-packages/flask_restful_swagger/swagger.py:14: ExtDeprecationWarning: Importing flask.ext.restful is deprecated, use flask_restful instead.
+  from flask.ext.restful import Resource, fields
+--------------------------------------------------------------------------------
+INFO in run [/usr/local/lib/python3.7/site-packages/SpiderKeeper/run.py:22]:
+SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+--------------------------------------------------------------------------------
+2019-08-02 18:25:37,172 - SpiderKeeper.app - INFO - SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+/usr/local/lib/python3.7/site-packages/flask_restful_swagger/swagger.py:14: ExtDeprecationWarning: Importing flask.ext.restful is deprecated, use flask_restful instead.
+  from flask.ext.restful import Resource, fields
+--------------------------------------------------------------------------------
+INFO in run [/usr/local/lib/python3.7/site-packages/SpiderKeeper/run.py:22]:
+SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+--------------------------------------------------------------------------------
+2019-08-02 18:26:15,450 - SpiderKeeper.app - INFO - SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+/usr/local/lib/python3.7/site-packages/flask_restful_swagger/swagger.py:14: ExtDeprecationWarning: Importing flask.ext.restful is deprecated, use flask_restful instead.
+  from flask.ext.restful import Resource, fields
+--------------------------------------------------------------------------------
+INFO in run [/usr/local/lib/python3.7/site-packages/SpiderKeeper/run.py:22]:
+SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+--------------------------------------------------------------------------------
+2019-08-02 18:26:58,976 - SpiderKeeper.app - INFO - SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+/usr/local/lib/python3.7/site-packages/flask_restful_swagger/swagger.py:14: ExtDeprecationWarning: Importing flask.ext.restful is deprecated, use flask_restful instead.
+  from flask.ext.restful import Resource, fields
+--------------------------------------------------------------------------------
+INFO in run [/usr/local/lib/python3.7/site-packages/SpiderKeeper/run.py:22]:
+SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+--------------------------------------------------------------------------------
+2019-08-02 18:31:11,529 - SpiderKeeper.app - INFO - SpiderKeeper startd on 0.0.0.0:22250 username:admin/password:tytspider with scrapyd servers:http://localhost:6800
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-02 22:30:11 CST)" was missed by 0:00:05.569677
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-02 22:30:11 CST)" was missed by 0:00:25.569878
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-03 08:30:06 CST)" was missed by 0:00:02.868876
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-03 08:30:11 CST)" was missed by 0:00:03.441289
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-03 08:30:11 CST)" was missed by 0:00:23.546641
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-03 08:30:11 CST)" was missed by 0:00:01.146793
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-03 20:31:26 CST)" was missed by 0:00:04.654501
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-03 20:31:31 CST)" was missed by 0:00:04.722799
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-03 20:31:41 CST)" was missed by 0:00:14.961196
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-04 00:00:06 CST)" was missed by 0:00:02.730547
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-04 00:00:11 CST)" was missed by 0:00:02.735001
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-04 00:00:11 CST)" was missed by 0:00:22.735025
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-04 11:58:56 CST)" was missed by 0:00:04.134755
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-04 11:59:01 CST)" was missed by 0:00:04.544878
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-04 11:59:11 CST)" was missed by 0:00:14.568287
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-04 11:59:01 CST)" was missed by 0:00:02.254261
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-04 14:46:11 CST)" was missed by 0:00:05.681688
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-04 14:46:11 CST)" was missed by 0:00:25.684628
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-04 20:15:11 CST)" was missed by 0:00:03.465978
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-04 20:15:11 CST)" was missed by 0:00:08.494657
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-04 20:15:11 CST)" was missed by 0:00:28.510821
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-04 23:12:16 CST)" was missed by 0:00:02.303632
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-04 23:12:21 CST)" was missed by 0:00:02.308118
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-04 23:12:41 CST)" was missed by 0:00:02.308080
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-05 08:30:06 CST)" was missed by 0:00:03.047800
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-05 08:30:11 CST)" was missed by 0:00:03.141478
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-05 08:30:11 CST)" was missed by 0:00:23.161142
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-05 08:30:11 CST)" was missed by 0:00:01.135565
+Run time of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-05 09:29:11 CST)" was missed by 0:00:01.524156
+Run time of job "sync_spiders (trigger: interval[0:00:10], next run at: 2019-08-05 09:29:11 CST)" was missed by 0:00:06.919654
+Run time of job "reload_runnable_spider_job_execution (trigger: interval[0:00:30], next run at: 2019-08-05 09:29:11 CST)" was missed by 0:00:26.924396
+Execution of job "sync_job_execution_status_job (trigger: interval[0:00:05], next run at: 2019-08-05 11:23:56 CST)" skipped: maximum number of running instances reached (1)
