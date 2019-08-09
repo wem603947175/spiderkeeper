@@ -3,7 +3,9 @@
 
 把之前spiderkeeper添加任务简化并增加了重试机制
 
-现在添加任务非常稳定。
+现在添加任务非常稳定(需要启动时候是 --no--auth )。
+
+
 # use
 git clone ssh://git@github.com:wem603947175/spiderkeeper.git
 
@@ -11,8 +13,33 @@ cd SpiderKeeper
 
 pip3 install .
 
-OK
+-----------------------------------------------
 
+./spider_keeper.sh
+
+接着上传自己的egg包
+
+-----------------------------------------------
+开启多任务是调用api接口：
+
+import requests
+spiderkeeper_url = 'http://127.0.0.1:22250/api/projects/2/jobs'
+data = {
+   'spider_name': "kuasheng_spider_v2",
+   'spider_arguments': "-----",
+   'run_type': 'onetime',
+   'priority': 0
+}
+print(data)
+res = requests.post(spiderkeeper_url, data=data)
+print(res.content)
+if res.text == 'true\n':
+   print('ok')
+else:
+   print('fail')
+            
+-----------------------------------------------       
+            
 # SpiderKeeper
 
 [![Latest Version](http://img.shields.io/pypi/v/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
